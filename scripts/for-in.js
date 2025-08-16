@@ -1,5 +1,5 @@
 
-const numeros = [10, 20, 30];
+// const numeros = [10, 20, 30];
 
 
 // // forma de iteração clássica com array
