@@ -13,21 +13,20 @@
 // const profissao = "desenvolvedor";
 // console.log(profissao);
 
-// var tem escopo global
-{
-  var nome = "Alex";
-}
-console.log(nome);
+// // var tem escopo global
+// {
+//   var nome = "Alex";
+// }
+// console.log(nome);
 
-// let tem escopo local
-{
-  let idade = 29;
-}
-console.log(idade);
+// // let tem escopo local
+// {
+//   let idade = 29;
+// }
+// console.log(idade);
 
-// const tem escopo local
-{
-  const profissao = "desenvolvedor";
-}
-console.log(profissao);
-
+// // const tem escopo local
+// {
+//   const profissao = "desenvolvedor";
+// }
+// console.log(profissao);
